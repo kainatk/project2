@@ -20,3 +20,9 @@
   position: relative;
   right: 50%;
   display: block;
+}
+#main-navbar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #f08080;
+  text-decoration: none;
