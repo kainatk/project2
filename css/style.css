@@ -27,7 +27,7 @@
   color: #000000;
   text-decoration: none;
 #main-navbar ul li a:hover {
-  background-color: #000;
+  background-color: #DC143C;
 }
 #onpage {
   text-decoration: underline overline;
