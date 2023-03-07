@@ -182,6 +182,9 @@ h1 {
   border: 2px solid #008000;
   font-weight: bold; 
 }
+#h1:hover { 
+  transform: scale(1.1); 
+}
 #pic {
   margin-left: 450px;
   margin-bottom: 25px;
