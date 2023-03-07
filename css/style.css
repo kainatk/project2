@@ -183,8 +183,10 @@ img {
   padding: 10px;
 } 
 h2 { 
+  width: 35%;
+  padding: 10px;
+  border: 4px dashed #008080;
   padding: 0px;
-  text-decoration: underline #008080;
   font-size: 4em;
   font-weight: bold; 
 }
