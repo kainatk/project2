@@ -141,17 +141,26 @@ background-color: #D3D3D3
 }
 
 /*CSS for page 2*/
+.center-text {
+    text-align: center;
+}
 #temp {
   width: 70%;
   margin: 0 auto 5% auto;
   padding: 1% 1% 1% 1%;
   background-color: #F5FFFA;
 }
-#nam {
-text-align: center;
+.border-bottom {
+  border-bottom: 1px solid black;
 }
-#email {
-text-align: center;
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+.clear {
+  clear: both;
 }
 
 
