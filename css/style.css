@@ -205,6 +205,7 @@ h1:hover {
 }
 #res {
   text-align: left;
+  font-family: 'Kalam', cursive;
   margin-left: 500px;
   margin-right: 300px;
   margin-bottom: 25px;
@@ -216,9 +217,7 @@ h1:hover {
 }
 #gam-back {
   background-image: url(../images/back.jpeg);
-  font-family: 'Kalam', cursive;
 }
-
 
 
 
