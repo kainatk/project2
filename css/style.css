@@ -39,7 +39,7 @@ background-color: #D3D3D3
 }
 
 /*CSS for page 1*/
-#name ul {
+#name ul li  {
   list-style-type: none;
   margin: 0;
   padding: 0;
