@@ -39,9 +39,12 @@ background-color: #D3D3D3
 }
 
 /*CSS for page 1*/
-#name ul li  {
+#name {
+  background-color:#EE82EE;
+  text-align: left;
   float: left;
-  position: relative;
-  right: 50%;
-  display: block;
+  width: 470px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 0 10px 30px;
 }
