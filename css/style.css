@@ -177,6 +177,14 @@ h1 {
   border: 2px solid #008000;
   font-weight: bold; 
 }
+#pic {
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 100px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 10px;
+}
 
 
 
