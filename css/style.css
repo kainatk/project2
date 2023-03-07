@@ -40,7 +40,7 @@ background-color: #D3D3D3
 
 /*CSS for page 1*/
 #name {
-  background-color:#87CEFA;
+  background-color: #87CEFA;
   text-align: left;
   float: left;
   width: 470px;
@@ -57,7 +57,7 @@ background-color: #D3D3D3
   padding: 10px;
 }
 #about {
-  background-color:#9370DB;
+  background-color: #9370DB;
   text-align: left;
   float: left;
   width: 470px;
@@ -74,10 +74,10 @@ background-color: #D3D3D3
   padding: 10px;
 }
 #sports {
-  background-color:#DC143C;
+  background-color: #DC143C;
   text-align: left;
   float: left;
-  width: 600px;
+  width: 500px;
   border: 1px solid black;
   text-align: center;
   margin: 0 10px 30px;
