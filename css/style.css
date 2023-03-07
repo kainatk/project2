@@ -162,7 +162,15 @@ background-color: #D3D3D3
 .clear {
   clear: both;
 }
-
+/*CSS for page 3*/
+#gam {
+  text-align: center;
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 10px;
+}
 
 
 
