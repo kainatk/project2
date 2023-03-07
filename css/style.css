@@ -194,6 +194,15 @@ h1:hover {
 #pic:hover { 
   transform: scale(1.1); 
 }
+#pict {
+  margin-left: 450px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  padding: 10px;
+}
+#pict:hover { 
+  transform: scale(1.1); 
+}
 #res {
   background-color: #9370DB;
   text-align: left;
