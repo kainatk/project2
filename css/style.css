@@ -91,15 +91,15 @@ background-color: #D3D3D3
   padding: 20px;
 }
 #song {
-  text-align: center;
-  margin-left: 600px;
-  margin-right: 600px;
+  text-align: left;
+  margin-left: 0px;
+  margin-right: 0px;
   margin-bottom: 25px;
   margin-top: 25px;
   padding: 10px;
 }
 #song {
-  background-color: #808080;
+  background-color: #BC8F8F;
   text-align: left;
   float: left;
   width: 800px;
