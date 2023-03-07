@@ -141,11 +141,17 @@ background-color: #D3D3D3
 }
 
 /*CSS for page 2*/
-#temp{
+#temp {
   width: 70%;
   margin: 0 auto 5% auto;
   padding: 1% 1% 1% 1%;
   background-color: #F5FFFA;
+}
+#nam {
+text-align: center;
+}
+#email {
+text-align: center;
 }
 
 
