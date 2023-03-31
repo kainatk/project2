@@ -200,10 +200,10 @@ h3:hover {
   transform: scale(1.1); 
 }
 #pict {
-  margin-left: 450px;
-  margin-bottom: 25px;
-  margin-top: 25px;
-  padding: 10px;
+  margin-left: 470px;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  padding: 30px;
 }
 #pict:hover { 
   transform: scale(1.1); 
@@ -212,7 +212,7 @@ h3:hover {
   background-color: #9370DB;
   text-align: left;
   float: left;
-  width: 470px;
+  width: 550px;
   border: 1px solid black;
   text-align: center;
   margin: 0 10px 30px;
@@ -221,7 +221,7 @@ h3:hover {
   text-align: left;
   font-family: 'Kalam', cursive;
   margin-left: 500px;
-  margin-right: 300px;
+  margin-right: 360px;
   margin-bottom: 25px;
   margin-top: 25px;
   padding: 10px;
