@@ -55,7 +55,7 @@ background-color: #D3D3D3
   margin-bottom: 25px;
   margin-top: 25px;
   padding: 10px;
-  font-family: 'Chakra Petch', cursive;
+  font-family: 'Chakra Petch', bold;
 }
 #name:hover { 
   transform: scale(1.1); 
