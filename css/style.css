@@ -176,7 +176,7 @@ background-color: #D3D3D3
 #gam {
   text-align: center;
   font-size: 30px;
-  margin-left: 500px;
+  margin-left: 550px;
   margin-right: 100px;
   margin-bottom: 25px;
   margin-top: 25px;
@@ -191,7 +191,7 @@ h3:hover {
   transform: scale(1.1); 
 }
 #pic {
-  margin-left: 450px;
+  margin-left: 500px;
   margin-bottom: 25px;
   margin-top: 25px;
   padding: 10px;
@@ -220,8 +220,8 @@ h3:hover {
 #res {
   text-align: left;
   font-family: 'Kalam', cursive;
-  margin-left: 500px;
-  margin-right: 360px;
+  margin-left: 550px;
+  margin-right: 400px;
   margin-bottom: 25px;
   margin-top: 25px;
   padding: 10px;
