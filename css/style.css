@@ -182,12 +182,12 @@ background-color: #D3D3D3
   margin-top: 25px;
   padding: 10px;
 }
-h2 { 
+h3 { 
   width: 35%;
   border: 2px solid #008000;
   font-weight: bold; 
 }
-h2:hover { 
+h3:hover { 
   transform: scale(1.1); 
 }
 #pic {
