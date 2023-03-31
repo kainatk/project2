@@ -229,6 +229,10 @@ h3:hover {
 #res:hover { 
   transform: scale(1.1); 
 }
+#head {
+  text-align: center;
+  font-family: 'Kalam', cursive;
+}
 #gam-back {
   background-image: url(../images/back.jpeg);
 }
